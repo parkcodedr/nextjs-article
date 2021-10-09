@@ -1,0 +1,14 @@
+.nav ul{
+    display:flex;
+}
+.nav{
+    background:black;
+}
+.nav ul li{
+    padding: 8px;
+    color:white;
+    list-style-type: none;
+}
+.nav ul li a{
+    margin:5px 15px;
+}
